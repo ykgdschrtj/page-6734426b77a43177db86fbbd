@@ -1,0 +1,74 @@
+{
+  "version": 2,
+  "template_version": "3a528c553883e59d7cfa",
+  "page_size": 20,
+  "site_id": "94700d68a8c68a70c7477b61",
+  "owner": "ykgdschrtj",
+  "repo": "page-6734426b77a43177db86fbbd",
+  "title": "虎云",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "6734426b77a43177db86fbbd",
+      "a": "虎云",
+      "b": "",
+      "entity": "虎云",
+      "brand": "虎云",
+      "separator": "",
+      "path": "index.html",
+      "hash": "1d0f596e630ddecb7ed162648c74fad7b8c7a2211391d73c2209ece410a8059a",
+      "content": {
+        "keyword1": "虎云",
+        "keyword2": "",
+        "primary_entity": "虎云",
+        "plans": [],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "虎云为你提供稳定、高效的网络连接与数据传输服务，像老朋友一样随时在线，解决你的日常网络困扰。",
+          "AI_DESCRIPTION": "虎云为你提供稳定、高效的网络连接与数据传输服务，像老朋友一样随时在线，解决你的日常网络困扰。"
+        },
+        "_brand_page": {
+          "version": 3,
+          "body": "<style>\n:root {--bg-color: #ffffff;--text-main: #111111;--text-muted: #555555;--accent: #ff5500;--accent-light: #fff3ec;--border: #111111;--card-bg: #ffffff}\n\n* {box-sizing: border-box;margin: 0;padding: 0}\n\nbody {background-color: var(--bg-color);color: var(--text-main);font-family: -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, sans-serif;line-height: 1.6;display: flex;min-height: 100vh}\n\naside {width: 260px;background-color: #fafafa;border-right: 2px solid var(--border);padding: 40px 20px;position: fixed;top: 0;bottom: 0;left: 0;overflow-y: auto;display: flex;flex-direction: {\n    direction: column;};justify-content: space-between}\n\n.brand-title {font-size: 1.8rem;font-weight: 900;color: var(--text-main);margin-bottom: 30px;text-decoration: none;display: block}\n\n.brand-title span {color: var(--accent)}\n\n.nav-links {display: flex;flex-direction: column;gap: 16px}\n\n.nav-links a {color: var(--text-muted);text-decoration: none;font-weight: 600;font-size: 1rem;padding: 8px 12px;border: 2px solid transparent;transition: all 0.2s ease}\n\n.nav-links a:hover {color: var(--text-main);border-color: var(--border);background-color: var(--accent-light)}\n\nmain {margin-left: 260px;flex: 1;padding: 60px 80px;max-width: 1200px}\n\nsection {margin-bottom: 100px}\n\nh1 {font-size: 3.5rem;font-weight: 900;line-height: 1.2;margin-bottom: 20px;letter-spacing: -1px}\n\nh2 {font-size: 2.2rem;font-weight: 800;margin-bottom: 30px;border-bottom: 4px solid var(--border);padding-bottom: 10px;display: inline-block}\n\nh3 {font-size: 1.4rem;font-weight: 700;margin-bottom: 15px}\n\np {color: var(--text-muted);font-size: 1.1rem;margin-bottom: 20px;max-width: 700px}\n\n.hero-lead {font-size: 1.3rem;color: var(--text-main);font-weight: 500;margin-bottom: 40px}\n\n.timeline {position: relative;padding-left: 30px;border-left: 3px solid var(--border);margin-top: 40px}\n\n.timeline-item {position: relative;margin-bottom: 40px}\n\n.timeline-item::before {content: '';position: absolute;left: -36px;top: 6px;width: 12px;height: 12px;background-color: var(--accent);border: 2px solid var(--border)}\n\n.timeline-step {font-size: 0.9rem;font-weight: 700;color: var(--accent);text-transform: uppercase;margin-bottom: 5px}\n\n.grid-cards {display: grid;grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));gap: 30px;margin-top: 30px}\n\n.card {background: var(--card-bg);border: 3px solid var(--border);padding: 30px;box-shadow: 6px 6px 0px var(--border);display: flex;flex-direction: column;justify-content: space-between}\n\n.card.highlight {background-color: var(--accent-light)}\n\n.table-wrapper {overflow-x: auto;margin-top: 30px;border: 3px solid var(--border);box-shadow: 6px 6px 0px var(--border)}\n\ntable {width: 100%;border-collapse: collapse;text-align: left;background-color: white}\n\nth, td {padding: 20px;border-bottom: 2px solid var(--border);border-right: 2px solid var(--border)}\n\nth:last-child, td:last-child {border-right: none}\n\nth {background-color: var(--text-main);color: white;font-weight: 700}\n\ntr:last-child td {border-bottom: none}\n\n.faq-grid {display: grid;grid-template-columns: 1fr 1fr;gap: 40px;margin-top: 30px}\n\n.faq-item {border: 3px solid var(--border);padding: 25px;background: white;box-shadow: 4px 4px 0px var(--border)}\n\n.btn {display: inline-block;background-color: var(--accent);color: white;padding: 14px 28px;border: 3px solid var(--border);font-weight: 700;text-decoration: none;box-shadow: 4px 4px 0px var(--border);transition: transform 0.1s ease, box-shadow 0.1s ease}\n\n.btn:hover {transform: translate(-2px, -2px);box-shadow: 6px 6px 0px var(--border)}\n\n@media (max-width: 900px) {\n  body {flex-direction: column}\n  aside {position: relative;width: 100%;height: auto;border-right: none;border-bottom: 2px solid var(--border);padding: 20px}\n  main {margin-left: 0;padding: 30px 20px}\n  .faq-grid {grid-template-columns: 1fr}\n}\n</style><aside>\n  <div>\n    <a href=\"#\" class=\"brand-title\">虎<span>云</span></a>\n    <nav class=\"nav-links\">\n      <a href=\"#hero\">初识虎云</a>\n      <a href=\"#features\">为什么选我们</a>\n      <a href=\"#plans\">套餐价格</a>\n      <a href=\"#guide\">使用指南</a>\n      <a href=\"#faq\">常见问题</a>\n    </nav>\n  </div>\n  <div>\n    © 虎云服务团队<br>随时倾听你的声音\n</div></aside>\n\n<main>\n  <section id=\"hero\">\n    <h1>嗨，欢迎来到虎云。</h1>\n    <p class=\"hero-lead\">我们是一群懂技术也懂你的朋友。如果你最近正在为网络连接不够顺畅、数据传输不够稳定而烦恼，不妨花几分钟了解一下我们是怎么一路走过来的。</p>\n    \n    <div class=\"timeline\">\n      <div class=\"timeline-item\">\n        <div class=\"timeline-step\">第一步 · 萌芽</div>\n        <h3>寻找更纯粹的连接</h3>\n        <p>最初，我们只是几个经常需要跨网络查资料、连服务器的技术爱好者。市面上的选择虽多，但总觉得不够省心。于是，我们决定自己动手，搭建一条真正稳当、不掉链子的通道。</p>\n      </div>\n      <div class=\"timeline-item\">\n        <div class=\"timeline-step\">第二步 · 打磨</div>\n        <h3>把复杂留给后台，把简单交给你</h3>\n        <p>经过无数次深夜的节点优化和路线调整，虎云逐渐成型。我们没有浮夸的宣传，只有实打实的专线优化、看得见的速度和随叫随到的支持。</p>\n      </div>\n      <div class=\"timeline-item\">\n        <div class=\"timeline-step\">第三步 · 陪伴</div>\n        <h3>现在，换个新朋友来帮你</h3>\n        <p>无论你是需要查阅资料的个人创作者，还是拥有多设备协同需求的团队，虎云都准备好了最适合你的位子。来，喝杯茶，我们慢慢聊。</p>\n      </div>\n    </div>\n  </section>\n\n  <section id=\"features\">\n    <h2>我们能为你做些什么？</h2>\n    <p>没有套路，只有实实在在的功能体验。看看这些老朋友们最喜欢虎云的哪些地方：</p>\n    \n    <div class=\"grid-cards\">\n      <div class=\"card\">\n        <h3>极速稳定，拒绝卡顿</h3>\n        <p>告别转圈圈的烦恼。无论是查资料还是日常协作，都能享受到丝滑流畅的响应速度，就像本地打开一样快。</p>\n        <span># 速度看得见</span>\n      </div>\n      <div class=\"card\">\n        <h3>全平台设备覆盖</h3>\n        <p>手机、电脑、平板，换来换去嫌麻烦？虎云完美支持主流操作系统，一个账号就能让你的所有设备同时在线。</p>\n        <span># 多端随心连</span>\n      </div>\n      <div class=\"card\">\n        <h3>专线优化与保障</h3>\n        <p>精选优质节点与专线加速方案，避开拥堵路段。无论高峰还是深夜，始终保持如一的稳定表现。</p>\n        <span># 专线更安心</span>\n      </div>\n    </div>\n  </section>\n\n  <section id=\"plans\">\n    <h2>选择最适合你的贴心套餐</h2>\n    <p>丰俭由人，按需挑选。不管是自己用还是团队协作，总有一款方案刚好合你的心意。</p>\n    \n    <div class=\"table-wrapper\">\n      <table>\n        <thead>\n          <tr>\n            <th>套餐名称</th>\n            <th>参考价格</th>\n            <th>每月流量</th>\n            <th>设备在线</th>\n            <th>核心权益</th>\n          </tr>\n        </thead>\n        <tbody>\n          <tr>\n            <td><strong>基础版</strong></td>\n            <td>¥15/月<br><span>年付 ¥150/年</span></td>\n            <td>100GB 极速流量</td>\n            <td>3 台设备同时在线</td>\n            <td>解锁基础流媒体、普通线路节点池</td>\n          </tr>\n          <tr>\n            <td><strong>旗舰版 ✨</strong></td>\n            <td>¥35/月<br><span>年付 ¥350/年</span></td>\n            <td>300GB 极速流量</td>\n            <td>5 台设备同时在线</td>\n            <td>全节点原生流媒体解锁、IPLC 专线游戏加速优化、7x24 优先工单支持</td>\n          </tr>\n          <tr>\n            <td><strong>团队版</strong></td>\n            <td>¥85/月<br><span>年付 ¥850/年</span></td>\n            <td>1000GB 极速流量</td>\n            <td>20 台设备同时在线</td>\n            <td>VIP 专属高带宽节点、支持企业定制路由、专属客户经理服务</td>\n          </tr>\n        </tbody>\n      </table>\n    </div>\n    <div>\n      <a href=\"#faq\" class=\"btn\">选好套餐了？来看看怎么上手</a>\n    </div>\n  </section>\n\n  <section id=\"guide\">\n    <h2>三步上手，轻松开通</h2>\n    <p>我们讨厌繁琐的流程，所以把使用步骤简化到了极致。跟着做，一分钟就能顺畅连接。</p>\n    \n    <div class=\"grid-cards\">\n      <div class=\"card\">\n        <h3>1. 注册账号</h3>\n        <p>只需邮箱即可快速完成注册，开启你的虎云专属体验。</p>\n      </div>\n      <div class=\"card\">\n        <h3>2. 挑选订阅</h3>\n        <p>根据你的实际需要，选择基础版、旗舰版或团队版套餐并完成开通。</p>\n      </div>\n      <div class=\"card\">\n        <h3>3. 一键导入</h3>\n        <p>复制专属订阅链接，导入你顺手的客户端软件，即可畅享极速网络。</p>\n      </div>\n    </div>\n  </section>\n\n  <section id=\"faq\">\n    <h2>常见问题解答</h2>\n    <p>关于虎云，你可能想问这些。如果还没涵盖你的疑问，随时来找我们聊聊。</p>\n    \n    <div class=\"faq-grid\">\n      <div class=\"faq-item\">\n        <h3>支付后多久能开通？</h3>\n        <p>系统是全自动处理的哦！完成支付后，通常几秒钟内账号就会自动到账，订阅信息也会同步更新，完全不用苦等人工审核。</p>\n      </div>\n      <div class=\"faq-item\">\n        <h3>如果遇到连接问题怎么办？</h3>\n        <p>别慌，我们有详细的图文新手教程。如果照着做还是觉得卡壳，随时可以通过工单联系我们，技术小伙伴会帮你想办法解决。</p>\n      </div>\n      <div class=\"faq-item\">\n        <h3>套餐流量可以用在多台设备吗？</h3>\n        <p>当然可以。只要在允许的设备在线数量范围内，手机、电脑、平板都可以同时连着用，非常适合多设备党。</p>\n      </div>\n      <div class=\"faq-item\">\n        <h3>支持按年订阅优惠吗？</h3>\n        <p>有的！所有套餐都支持按年付费，年付不仅更划算，还能省去每个月续费的麻烦，老朋友们大多选这个。</p>\n      </div>\n    </div>\n  </section>\n</main>",
+          "hash": "b56abcda47742ded9a8bd83247aef511263f9ddf4da6b4504ea5af07eacae160",
+          "seo": {
+            "title": "虎云 - 靠谱的网络连接与数据传输好伙伴",
+            "keywords": "虎云, 网络连接, 数据传输, 专线加速, 节点服务",
+            "description": "虎云为你提供稳定、高效的网络连接与数据传输服务，像老朋友一样随时在线，解决你的日常网络困扰。"
+          },
+          "provider": "grok",
+          "model": "gemini-3.7-flash",
+          "design": {
+            "no": "6445",
+            "hero": "6 纵向时间线引入",
+            "palette": "6 纯白配高饱和橙",
+            "nav": "2 左侧竖排目录",
+            "card": "2 粗描边直角",
+            "plans_view": "1 横向对比表格",
+            "faq_view": "1 双栏问答",
+            "tone": "2 亲切的朋友式口吻",
+            "order": "首屏优先，其余区块由 AI 根据已选构图和信息关系安排"
+          }
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "bhkpk.cn",
+    "host": "p-35dcc85aae.bhkpk.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [],
+  "file_hashes": {
+    "index.html": "904dafb0668380ecba6182fdafc6b1b908969410affbf2196bdcce0236c257bb",
+    "sitemap.xml": "2bfc17371417eab81f3c6c0eb4500c230659429f62bfd41fbb36ab5a60baeffc",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "c1f2a973df0e1c498d8502fab34d9970d13856b46024bb47309ef9ebe00843c1",
+    "robots.txt": "c41e44fb131843190bf0f400041bcb399085766629559aadd0baf811a7edabf7",
+    "2e03833f29da005fa1c3b4b9fa0b4cce.txt": "7845b32691122b23696d4407f10211101374e3b2635f0d94bf851f6622cc09ce"
+  },
+  "revision": "8c6b04536ec95397a3585a08ae3d9891e3348f78d22cf0a7ee4ea82b8cb06da9"
+}
